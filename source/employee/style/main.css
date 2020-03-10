@@ -1,0 +1,15 @@
+@import '../css/nav.css'; 
+
+table {
+    margin: 0 auto;
+}
+
+tr td,
+tr th {
+    border: 1px solid;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+}

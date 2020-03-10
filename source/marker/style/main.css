@@ -1,0 +1,32 @@
+@import '../css/nav.css'; 
+
+body{
+    width: 100vw;
+    height: 100vh;
+    align-content: center;
+}
+
+.container{
+    width: 90%;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.txt{
+    word-wrap: break-word;
+}
+
+.block{
+    width: 100%;
+    border: 1px solid black;
+    min-height: 20px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.mark {
+    width: 100px;
+    height: 20px;
+    border: 1px solid black;
+    display: inline-block;
+}
