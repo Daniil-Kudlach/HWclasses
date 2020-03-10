@@ -30,3 +30,7 @@ body{
     border: 1px solid black;
     display: inline-block;
 }
+
+.area{
+    margin: 8vh;
+}
